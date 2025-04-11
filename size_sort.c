@@ -31,6 +31,7 @@
 // 	sort_three(a);
 // 	pa(a, b);
 // }
+
 void sort_three(t_stack **a)
 {
     if ((*a)->nbr > (*a)->next->nbr)
